@@ -1,8 +1,5 @@
 # StageNet: Stage-Aware Neural Networks for Health Risk Prediction
 
-![StageNet Text Logo](images/stagenet.png "StageNet logo")
-
-
 This repository is an implementation of [StageNet: Stage-Aware Neural Networks for Health Risk Prediction](https://arxiv.org/abs/2001.10054). This project was created as part of UIUC CS 598 Deep Learning for Healthcare Final Project.
 
 ## Data Preperation
